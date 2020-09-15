@@ -1,7 +1,7 @@
 What is EP3
 ===============
 
-.. image:: img/logo.jpg
+.. image:: img/logo100.jpg
 
 EP3 provides data and research tools for the environmental proection economy in Canada and the USA.  The environmental protection econonmy is a subset of the environmental goods and services economcy, otherwise known as the green economy or cleantech.  EP3 currates and publishes data derived from public and institutional sources. EP3 brings together mature and stable open-software projects under a consistent and easy-to-use interface allowing non-specialized users to research and share data, and create interactive maps.            
 
