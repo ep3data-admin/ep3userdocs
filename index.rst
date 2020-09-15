@@ -4,8 +4,6 @@
 EP3's Documentation
 =======================
 
-Welcome to EP3's Documentation.
-
 Table of contents
 =================
 
