@@ -18,46 +18,10 @@ Table of contents
     about/index
 
 .. toctree::
-    :caption: Getting Started
-    :maxdepth: 3
-
-    start/index
-
-.. toctree::
     :caption: Using
     :maxdepth: 3
 
     usage/index
-
-.. toctree::
-    :caption: Installing
-    :maxdepth: 3
-
-    install/index
-
-.. toctree::
-    :caption: Configuring (Basic)
-    :maxdepth: 3
-
-    basic/index
-
-.. toctree::
-    :caption: Configuring (Intermediate)
-    :maxdepth: 3
-
-    intermediate/index
-
-.. toctree::
-    :caption: Configuring (Advanced)
-    :maxdepth: 3
-
-    advanced/index
-
-.. toctree::
-    :caption: Administering
-    :maxdepth: 3
-
-    admin/index
 
 .. toctree::
     :caption: Contributing
