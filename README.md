@@ -2,9 +2,9 @@
 
 ## How to write Documentation
 
-EP3 uses reStructuredText with [Sphinx](http://www.sphinx-doc.org) .
-Writing style should follow the same policies as GeoServer does in their
-[Documentation Style
+EP3 uses reStructuredText using [Sphinx](http://www.sphinx-doc.org).  The user docs are hosted on readthedocs.org.
+
+Writing style should follow the same policies as GeoServer does in their [Documentation Style
 Guide](http://docs.geoserver.org/latest/en/docguide/style.html)
 
 ## Sphinx Syntax
