@@ -1,11 +1,11 @@
 What is EP3
 ===============
 
-.. image:: img/logo.png
+.. image:: img/logo.jpg
 
 EP3 provdes a platform for the management and publicatoin of geospacital and socio-economic data realting the environmental protection economy in Canada and the USA.  Environmental protection is a submarket of the environmentla goods and services sector (EGSS) or the green economy.   
 
-<!-- 
+<!---
 GeoNode is a geospatial content management system, a platform for the management and publication of geospatial data. It brings together mature and stable  open-source software projects under a consistent and easy-to-use interface allowing non-specialized users to share data and create interactive maps. 
 -->
 
