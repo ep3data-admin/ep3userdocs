@@ -1,8 +1,9 @@
-# GeoNode Documentation
+# EP3 Documentation
 
 ## How to write Documentation
 
-GeoNode uses reStructuredText with [Sphinx](http://www.sphinx-doc.org) .
+EP3 uses reStructuredText with [Sphinx](http://www.sphinx-doc.org).
+Documentation is currently hosted by [Readthedocs](http://www.readthedocs.org) using a hook to Github. 
 Writing style should follow the same policies as GeoServer does in their
 [Documentation Style
 Guide](http://docs.geoserver.org/latest/en/docguide/style.html)
