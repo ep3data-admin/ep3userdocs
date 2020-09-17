@@ -1,4 +1,4 @@
-# EP3 Documentation
+# User Template Documentation
 
 ## How to write Documentation
 
